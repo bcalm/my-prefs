@@ -1,0 +1,15 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+  {
+    "key": "cmd+h",
+    "command": "workbench.action.splitEditorUp"
+  },
+  {
+    "key": "shift+cmd+r",
+    "command": "sqlite.runDocumentQuery"
+  }
+  {
+    "key": "shift+cmd+t",
+    "command": "sqlite.runSelectedQuery"
+  }
+]
